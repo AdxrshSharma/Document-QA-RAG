@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+transformers
+torch
+pypdf
+streamlit
+reportlab

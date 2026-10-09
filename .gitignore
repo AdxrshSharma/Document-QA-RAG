@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local vector database and downloaded models
+chroma_db/
+.cache/
+models/
+
+# Uploaded documents and private resumes
+data/
+*.pdf
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

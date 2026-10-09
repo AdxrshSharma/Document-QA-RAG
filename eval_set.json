@@ -1,0 +1,9 @@
+[
+  {"question": "How many days of annual paid leave do employees get?", "source": "acme_handbook.pdf", "page": 1, "expected": "24"},
+  {"question": "How many weeks is maternity leave?", "source": "acme_handbook.pdf", "page": 1, "expected": "26"},
+  {"question": "What are the core working hours?", "source": "acme_handbook.pdf", "page": 2, "expected": "10 AM"},
+  {"question": "How often are company laptops refreshed?", "source": "acme_handbook.pdf", "page": 2, "expected": "3 years"},
+  {"question": "What is the yearly learning budget?", "source": "acme_handbook.pdf", "page": 2, "expected": "50,000"},
+  {"question": "How long is the notice period for resignation?", "source": "acme_handbook.pdf", "page": 3, "expected": "60"},
+  {"question": "When do performance reviews take place?", "source": "acme_handbook.pdf", "page": 3, "expected": "June"}
+]
